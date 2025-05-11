@@ -52,4 +52,4 @@ npm start
 - GET `/api/tasks/{id}` - Get task by ID
 - POST `/api/tasks` - Create new task
 - PUT `/api/tasks/{id}` - Update task
-- DELETE `/api/tasks/{id}` - Delete task 
+- DELETE `/api/tasks/{id}` - Delete task
